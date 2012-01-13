@@ -2,17 +2,17 @@
 
 = Introduction =
 
-WiiWare-VC Manager lets you easily manage the WiiWare and VC .wad files on your SD card or HD. 
+{{{WiiWare}}}-VC Manager lets you easily manage the WiiWare and VC .wad files on your SD card or HD. 
 
-*Remove wads from destination
-*get info about wads on source or destination
-*Add wads from source to destination
+* Remove wads from destination
+* Get info about wads on source or destination
+* Add wads from source to destination
 
 http://wiiware-vc-manager-for-pc.googlecode.com/files/Screenshot.PNG
 
 
 = Details =
 
-WiiWare-VC Manager use the naming convention {{{ {channeltitle}_{titleid}.wad }}} to lookup info about the game. If the name is not in this format you can still move the file from source to destination, you just won't get any info or pretty picture
+{{{WiiWare}}}-VC Manager use the naming convention {{{ {channeltitle}_{titleid}.wad }}} to lookup info about the game. If the name is not in this format you can still move the file from source to destination, you just won't get any info or pretty picture
 
 To get you wads file in the correct format use the excellent program [http://code.google.com/p/showmiiwads/downloads/list Showmiiwads]
