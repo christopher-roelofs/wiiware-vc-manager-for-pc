@@ -8,7 +8,7 @@ WiiWare-VC Manager lets you easily manage the WiiWare and VC .wad files on your 
 *get info about wads on source or destination
 *Add wads from source to destination
 
-http://wiiware-vc-manager-for-pc.googlecode.com/files/untitled.PNG
+http://wiiware-vc-manager-for-pc.googlecode.com/files/Screenshot.PNG
 
 
 = Details =
