@@ -8,6 +8,8 @@ WiiWare/VC Manager lets you easily manage the WiiWare and VC .wad files on your 
 *get info about wads on source or destination
 *Add wads from source to destination
 
+http://wiiware-vc-manager-for-pc.googlecode.com/files/untitled.PNG
+
 
 = Details =
 
@@ -15,5 +17,3 @@ WiiWare/VC Manager use the naming convention {{{ {channeltitle}_{titleid}.wad }}
 
 To get you wads file in the correct format use the excellent program [http://code.google.com/p/showmiiwads/downloads/list Showmiiwads]
 
-
-http://wiiware-vc-manager-for-pc.googlecode.com/files/untitled.PNG
