@@ -2,7 +2,7 @@
 
 = Introduction =
 
-{{{WiiWare}}}-VC Manager lets you easily manage the WiiWare and VC .wad files on your SD card or HD. 
+{{{WiiWare}}}-VC Manager lets you easily manage the {{{WiiWare}}} and VC .wad files on your SD card or HD. 
 
 * Remove wads from destination
 * Get info about wads on source or destination
