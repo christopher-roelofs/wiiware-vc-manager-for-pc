@@ -8,11 +8,11 @@
   *  Get info about wads on source or destination
   *  Add wads from source to destination
 
-http://wiiware-vc-manager-for-pc.googlecode.com/files/Screenshot.PNG
+http://wiiware-vc-manager-for-pc.googlecode.com/svn/trunk/Screenshots/Windows_Screenshot.PNG
 
-http://wiiware-vc-manager-for-pc.googlecode.com/files/Linux_Screenshot.png 
+http://wiiware-vc-manager-for-pc.googlecode.com/svn/trunk/Screenshots/Ubuntu_Screenshot.png
 
-http://wiiware-vc-manager-for-pc.googlecode.com/files/Kubuntu_Screenshot.png
+http://wiiware-vc-manager-for-pc.googlecode.com/svn/trunk/Screenshots/Kubuntu_Screenshot.png
 
 
 
