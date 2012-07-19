@@ -1,0 +1,24 @@
+7-12-12 0.6
+-fixed compatibility with linux
+-fixed some issues
+
+
+
+7-8-12 0.5.3
+-fixed some issues with not being connected to the internet
+-made GameTDB coverart source lookup better
+
+Ver 0.5.2 2-13-12
+-Added options for different cover art source WiiTDB and Nintendo(works well for "online" mode but if you try downloading an image you already have download the file will not be replaced. on my to-do list)
+
+
+Ver 0.5 2-01-12
+-added settings menu
+-added ability to check for db update and download on startup
+-added "online mode" option
+
+
+Ver 0.5 1-26-12
+
+-ability to download cover art for selected and all wads in the list.
+-split some of the action into seperate threads so they don't lock up the gui.
